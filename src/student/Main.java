@@ -209,10 +209,10 @@ public class Main extends javax.swing.JFrame {
     /** Creates new form Main */
     public Main() {
         initComponents();
-        openConnect();
+        //openConnect();
         
-        
-        refeshTable();
+        System.out.print("TestDo");
+        //refeshTable();
         actionBtn.setEnabled(true);
         nextBtn.setEnabled(false);
         prevBtn.setEnabled(false);
