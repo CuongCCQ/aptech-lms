@@ -211,7 +211,7 @@ public class Main extends javax.swing.JFrame {
         initComponents();
         //openConnect();
         
-        System.out.print("TestDo");
+        System.out.print("abc123");
         //refeshTable();
         actionBtn.setEnabled(true);
         nextBtn.setEnabled(false);
